@@ -21,7 +21,7 @@ Voici les sujets des TPs:
 * __TP 2__ Utilisation et visualisation d'ACP avec `scikit-learn` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/V3DMI5/multidim/blob/master/colabs/TP2_sklearn.ipynb)  
   => 25 novembre matin + 25 novembre aprèm
 
-* __TP 3__ _TP noté_: une ACP en `numpy` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lafaye-UPV/V3DMI5/blob/master/colabs/TP3_numpy.ipynb)  
+* __TP 3__ _TP noté_: une ACP en `numpy` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/V3DMI5/multidim/blob/master/colabs/TP3_numpy.ipynb)  
   =>  27 novembre matin
 
 ---
